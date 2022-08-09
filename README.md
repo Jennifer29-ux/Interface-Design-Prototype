@@ -5,4 +5,4 @@ Musicfie is the app for music lovers. This app supports short videos for signers
 There is also strong support for disabled users with the support of state-of-the-art voice recognition for blind users.  
 
 ## Link for the prototype
-[link] (https://www.figma.com/proto/HjXg2YB8emPqQaIwIVVIGo/Untitled?page-id=0%3A1&node-id=0%3A1&viewport=-359%2C999%2C0.26&scaling=scale-down&starting-point-node-id=13%3A359&show-proto-sidebar=1)
+[link] (https://www.figma.com/proto/HjXg2YB8emPqQaIwIVVIGo/Untitled?page-id=0%3A1&node-id=0%3A1&viewport=-359%2C999%2C0.26&scaling=scale-down&starting-point-node-id=13%3A359&show-proto-sidebar=1 )
